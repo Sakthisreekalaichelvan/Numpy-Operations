@@ -19,6 +19,7 @@ It also includes the definitions, explanation and comments between the code for 
 Install and import the numpy library with the command:
 
 pip install numpy
+
 import numpy as np
 
 Now workout the examples and understand!
