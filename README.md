@@ -13,9 +13,10 @@ This Repository consists of:
 5. Numpy Array functions
 6. Statistics with numpy arrays and Polynomial operations
 
-It also includes the definitions, explanation and comments between the code for easy understanding
+It also includes the definitions, explanation and comments between the code for easy understanding.
 
 **To Start with the learning**
+
 Install and import the numpy library with the command:
 
 pip install numpy
@@ -23,4 +24,5 @@ pip install numpy
 import numpy as np
 
 Now workout the examples and understand!
+
 **Hope this repository helps!**
